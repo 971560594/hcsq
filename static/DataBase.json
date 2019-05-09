@@ -1,0 +1,123 @@
+{
+	"condition" : [
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"IncorruptGovernment":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"CallConstruction":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "三风建设三风建设三风建设三风建设","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "三风建设三风建设三风建设三风建设","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"SanitationData":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市卫生城市卫生城市卫生城市卫生城市卫生城市卫生","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市卫生城市卫生城市卫生城市卫生城市卫生城市卫生","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市卫生城市卫生城市卫生城市卫生城市卫生城市卫生","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"CityOrder":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"PartyMembe":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "熊   大"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "熊    二"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "光头强"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "虹    猫"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "蓝    兔"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "黑心虎"}
+	],
+	"activist":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "熊   大","occupation":"新文创公司董事长兼CE"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "熊    二","occupation":"新文创公司董事长兼CE"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "光头强","occupation":"新文创公司董事长兼CE"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "虹    猫","occupation":"新文创公司董事长兼CE"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "蓝    兔","occupation":"新文创公司董事长兼CE"},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","name" : "黑心虎","occupation":"新文创公司董事长兼CE"}
+	],
+	"law":[
+		{
+			"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png",
+			"office" : "红红律师事务所",
+			"name" : "油菜花",
+			"description":"红红律师事务所创始人兼首席律师，擅长民事纠纷案件，曾处理哈喽公司民事纠纷案。",
+			"phone" : 15170455278,
+			"Email" : "1517045527@qq.com"
+		}
+	],
+	"TaxConsultation":[
+		{
+			"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png",
+			"office" : "红红税务事务所",
+			"name" : "油菜花",
+			"description":"红红律师事务所创始人兼首席律师，擅长民事纠纷案件，曾处理哈喽公司民事纠纷案。",
+			"phone" : 15170455278,
+			"Email" : "1517045527@qq.com"
+		}
+	],
+	"TalentTraining" : [
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "人才培训人才培训人才培训人才培训人才培训人才培训人才培训","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "人才培训人才培训人才培训人才培训人才培训人才培训人才培训","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "人才培训人才培训人才培训人才培训人才培训人才培训人才培训","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "人才培训人才培训人才培训人才培训人才培训人才培训人才培训","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "人才培训人才培训人才培训人才培训人才培训人才培训人才培训","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "人才培训人才培训人才培训人才培训人才培训人才培训人才培训","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"Welfare" : [
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利工会福利","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"TheoreticalStudy":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "理论学习理论学习理论学习理论学习理论学习理论学习理论学习理论学习","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "理论学习理论学习理论学习理论学习理论学习理论学习理论学习理论学习理论学习","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "理论学习理论学习理论学习理论学习理论学习理论学习理论学习理论学习","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"activity":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党员活动党员活动党员活动党员活动党员活动党员活动","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党员活动党员活动党员活动党员活动党员活动党员活动","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党员活动党员活动党员活动党员活动党员活动党员活动","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"classroom":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"CityHealth":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据城市卫生数据","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"CityOrder":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据城市秩序数据","see" : "30000","like" : "9000","like_on" : false}
+	],
+	"TalentRecruitment":[
+		{
+			"occupation":"文字秘书一名",
+			"content0":"1、负责编写公司对内对外文件、宣传资料、PPT及董事长需要的其他公文;<br />2、配合领导完成相关的接待洽谈、关系维护等;",
+			"content":"1、良好的文字功底，可以起草各类行政文件;<br />2、企业行政管理、文件管理方面的知识和经验;<br />3、懂公关礼仪知识，可以协助领导合理安排会议以及接待工作;<br />4、有较强的沟通协调能力，和良好的计划和执行能力; <br />5、工作态度认真，积极主动责任心强，乐于与人交往，沟通能力 强，应变能力强; <br />6、熟练办公软件、熟悉办公设备使用;<br />7、大专以上学历，形象气质佳、22岁以上，有从事过相关经验优先。"
+		}
+	],
+	"PropertyManagement":[
+		{
+			"content0":"有电梯和无电梯差别：<br />一级 1.70元/平方/月 0.85元/平方/月15％[1.45，1.96] [0.72,0.98]<br />二级 1.25元/平方/月 0.62元/平方/月15％ [1.06，1.44] [0.53,0.71] <br />三级 0.91元/平方/月 0.45元/平方/月15％ [0.77，1.05] [0.38,0.52] ",
+			"content":"1、出租信息<br />黄金地段房屋出租（标题）<br />现有计算机商务中心两室两厅经典户型对外出租，简装修、六楼、面积xx平米，居住办公两宜，即租即用，欲租从速。联系人：X先生，联系电话：13238384382&nbsp:;&nbsp:;&nbsp:;&nbsp:;2019年05月06日<br />2、求租信息<br />求租X居室（标题）<br />本人因工作或上学需要本小区独单或偏单一套。要求正规X居室，屋内设施齐全，简单家具。月租（800）以内，有意者请打电话联系。 电话13838384389"	
+		}
+	],
+	"PettyLoan":[
+		{
+			"content0":"办理时间:全年即可",
+			"content":"持有《就业失业登记证》的城镇失业人员、复员转业退役军人、残疾人、大中专院校毕业生、返乡农民工、留学回国人员、有创业能力的城乡妇女等都可以申请小额担保贷款。",
+			"content1":"1、申请人填写《小额担保贷款个人申请审批表》<br />2、反担保人工资收入证明及扣款承诺<br />3、担保人签订的反担保合同<br />4、借款人贷前调查表<br />5、借款人《就业与失业登记证》原件、复印件及其他证件<br />6、借款人婚姻关系证明<br />7、借款人及其配偶身份证、户口本首页和本人页原件及复印件<br />8、工商营业执照副本原件、复印件、有关部门核准颁发的经营许 可证原件及复印件 <br />9、担保人户口本、身份证原件及复印件<br />10、申请人一寸照片3张",
+			"content2":"1、申请人前往经营所在地社区劳动保障室提出申请填表;<br />2、劳动协管员将材料送辖区人力资源和社会保障服务所初审;<br />3、辖区人力资源和社会保障服务所进行复审后送区小额贷款中心 审核;<br />4、区小额贷款中心审核之后送银行经办机构审查复核;<br />5、银行审核后发放贷款。"
+		}
+	]
+}
