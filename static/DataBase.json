@@ -1,10 +1,10 @@
 {
-	"condition" : [
-		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false},
-		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false},
-		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false}
+	"DynamicState" : [
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态商圈动态","see" : "30000","like" : "9000","like_on" : false}
 	],
-	"IncorruptGovernment":[
+	"CleanGovernment":[
 		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false},
 		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false},
 		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党风廉政党风廉政党风廉政党风廉政","see" : "30000","like" : "9000","like_on" : false}
@@ -86,6 +86,8 @@
 		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "党员活动党员活动党员活动党员活动党员活动党员活动","see" : "30000","like" : "9000","like_on" : false}
 	],
 	"classroom":[
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂","see" : "30000","like" : "9000","like_on" : false},
+		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂","see" : "30000","like" : "9000","like_on" : false},
 		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂","see" : "30000","like" : "9000","like_on" : false},
 		{"cover_img" : "http://webmonkey.d17.cc/template/minghe/pc/images/xuanze02.png","title" : "纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂纪律讲堂","see" : "30000","like" : "9000","like_on" : false}
 	],

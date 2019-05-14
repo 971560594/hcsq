@@ -372,6 +372,18 @@ textarea {
 	color: #FFFFFF;
 	background-color: #FE3E49;
 }
+.map{
+	width: 100%;
+	overflow: hidden;
+}
+.mapbox{
+	margin-top: 0.1rem;
+	width: 100%;
+	height: 4rem;
+}
+.mapbox .tdt-bottom{
+	display: none;
+}
 .condition{
 	width: 100%;
 	margin: 0.3rem 0 0.3rem;
