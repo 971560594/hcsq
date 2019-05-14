@@ -213,7 +213,7 @@ textarea {
 	font-size:0.3rem ;	
 	width: 100%;
 	text-align: center;
-	margin-top: 0.3rem;
+	margin: 0.3rem auto;
 	color: #e40d0d;
 }
 .module-construction{
